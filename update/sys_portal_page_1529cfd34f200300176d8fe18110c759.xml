@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-08-18 19:55:47">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1529cfd34f200300176d8fe18110c759</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My  ServiceNow Performance</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-18 15:44:39</sys_updated_on>
+        <title>My  ServiceNow Performance</title>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="My  ServiceNow Performance">1529cfd34f200300176d8fe18110c759</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                <sys_id>c6394f934f200300176d8fe18110c707</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">c6394f934f200300176d8fe18110c707</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>42394f934f200300176d8fe18110c709</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>Performance Graph Controls</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer_id</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">c6394f934f200300176d8fe18110c707</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>46394f934f200300176d8fe18110c708</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>310643650a0001c3008bf60e06f5df63</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">c6394f934f200300176d8fe18110c707</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>4a394f934f200300176d8fe18110c707</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderJavascript</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">c6394f934f200300176d8fe18110c707</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>ca394f934f200300176d8fe18110c708</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>performance_controls</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>1</offset>
+                <page display_value="My  ServiceNow Performance">1529cfd34f200300176d8fe18110c759</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                <sys_id>ca39c3174f200300176d8fe18110c74a</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">ca39c3174f200300176d8fe18110c74a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>4639c3174f200300176d8fe18110c74c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>Performance Graph Set</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>cmdb_ci</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">ca39c3174f200300176d8fe18110c74a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>4a39c3174f200300176d8fe18110c74b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>cdc3fda00a0a0b38000eb0d52830439c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>graph_set</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">ca39c3174f200300176d8fe18110c74a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>4e39c3174f200300176d8fe18110c74a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>506ab36c0a0001c3006898ccd5e9785f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">ca39c3174f200300176d8fe18110c74a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>4e39c3174f200300176d8fe18110c74c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>performance_graph_set</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">ca39c3174f200300176d8fe18110c74a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>c239c3174f200300176d8fe18110c74b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderJavascript</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer_id</name>
+                        <portal_section display_value="Created 2017-08-18 08:44:37">ca39c3174f200300176d8fe18110c74a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-08-18 15:44:37</sys_created_on>
+                        <sys_id>ce39c3174f200300176d8fe18110c74b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-08-18 15:44:37</sys_updated_on>
+                        <value>310643650a0001c3008bf60e06f5df63</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
